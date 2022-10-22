@@ -2,7 +2,7 @@
 
 <div align="center">
   <a>
-    <img src="https://media.giphy.com/media/KFhv3T1seYSJuak8TN/giphy.gif" height="300px" width="500px" alt="tomnook">
+    <img src="https://media.giphy.com/media/KFhv3T1seYSJuak8TN/giphy.gif"  width="300px" alt="tomnook">
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 <div align="center">
 <h3>Fish and catch bugs just like in Animal Crossing!</h3>
  <a>
-    <img src="https://media.giphy.com/media/fTnmUs24FN1ifdqciN/giphy.gif" height="300px" width="500px" alt="tomnook">
+    <img src="https://media.giphy.com/media/fTnmUs24FN1ifdqciN/giphy.gif" width="300px" alt="tomnook">
   </a>
 </div>
 <br>
@@ -26,10 +26,10 @@
         </tr>
         <tr>
             <td>
-                <img width="300px" height="500px" src="/public/images/fish-command.png"/>
+                <img width="300px" src="/public/images/fish-command.png"/>
             </td>
             <td >
-                <img width="300px" height="500px" src="/public/images/bugs-command.png"/>
+                <img width="300px" src="/public/images/bugs-command.png"/>
             </td>
         </tr>  
     </table>
@@ -37,9 +37,9 @@
 <br>
 <div align="center">
     <h3>Meet over 400 villagers from across the games!</h3>
-        <a>
-            <img src="https://media.giphy.com/media/h8ISB2nUVITEWjVgGo/giphy.gif" height="300px" width="500px" alt="tomnook">
-         </a>
+      <a>
+        <img src="https://media.giphy.com/media/h8ISB2nUVITEWjVgGo/giphy.gif" width="300px" alt="tomnook">
+       </a>
 </div>
 <br>
 <div align="center">
@@ -50,10 +50,10 @@
         </tr>
         <tr>
             <td>
-                <img width="400px" height="500px" src="/public/images/villager-command-1.png"/>
+                <img width="300px" src="/public/images/villager-command-1.png"/>
             </td>
             <td >
-                <img width="400px" height="500px" src="/public/images/villager-command-2.png"/>
+                <img width="300px" src="/public/images/villager-command-2.png"/>
             </td>
         </tr>  
     </table>
