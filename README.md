@@ -45,8 +45,8 @@
 <div align="center">
     <table>
         <tr>
-            <th>/fish</th>
-            <th>/bugs</th>
+            <th>/villager</th>
+            <th>/villager</th>
         </tr>
         <tr>
             <td>
