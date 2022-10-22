@@ -1,28 +1,23 @@
-## Nook Bot
+## 🍃 Nook Bot
 
 <div align="center">
   <a>
-    <img src="https://media.giphy.com/media/KFhv3T1seYSJuak8TN/giphy.gif" width="300" alt="tomnook">
+    <img src="https://media.giphy.com/media/KFhv3T1seYSJuak8TN/giphy.gif" height="300px" width="500px" alt="tomnook">
   </a>
 </div>
 
-## Features
+## 🪓 Build with
+- [Nodejs](https://nodejs.org/en/) v16 or later
+- [Discord.js](https://github.com/discordjs/discord.js/) v14
 
-| Command | Description |
-| --- | --- |
-| `/villager` | Gives information about a random villager |
-| `/fish` | Gives information about a random sea creature  |
-| `/bugs` | Gives information about a random insect  |
-| `/advice` | Gives random advice from Tom Nook |
-| `/affirmation` | Gives a random affirmation |
-| `/wholesome` | Gives a random post from r/wholesomememes |
-| `/activity` | Suggests an activity to cure boredom |
-| `/catfact` | Gives random cool cat fact |
-| `/kick` | Kicks a given member from the server |
-| `/ban` | Bans a given member from the server |
-| `/timeout` | Times out a given member from the server for a chosen amount of time |
-
-
+## 🎣 Features
+<div align="center">
+<h3>Fish and catch bugs just like in Animal Crossing!</h3>
+ <a>
+    <img src="https://media.giphy.com/media/fTnmUs24FN1ifdqciN/giphy.gif" height="300px" width="500px" alt="tomnook">
+  </a>
+</div>
+<br>
 <div align="center">
     <table>
         <tr>
@@ -39,6 +34,46 @@
         </tr>  
     </table>
 </div>
+<br>
+<div align="center">
+    <h3>Meet over 400 villagers from across the games!</h3>
+        <a>
+            <img src="https://media.giphy.com/media/h8ISB2nUVITEWjVgGo/giphy.gif" height="300px" width="500px" alt="tomnook">
+         </a>
+</div>
+<br>
+<div align="center">
+    <table>
+        <tr>
+            <th>/fish</th>
+            <th>/bugs</th>
+        </tr>
+        <tr>
+            <td>
+                <img width="400px" height="500px" src="/public/images/villager-command-1.png"/>
+            </td>
+            <td >
+                <img width="400px" height="500px" src="/public/images/villager-command-2.png"/>
+            </td>
+        </tr>  
+    </table>
+</div>
+
+## 🍎 Commands
+
+| Command | Description |
+| --- | --- |
+| `/villager` | Gives information about a random villager |
+| `/fish` | Gives information about a random sea creature  |
+| `/bugs` | Gives information about a random insect  |
+| `/advice` | Gives random advice from Tom Nook |
+| `/affirmation` | Gives a random affirmation |
+| `/wholesome` | Gives a random post from r/wholesomememes |
+| `/activity` | Suggests an activity to cure boredom |
+| `/catfact` | Gives random cool cat fact |
+| `/kick` | Kicks a given member from the server |
+| `/ban` | Bans a given member from the server |
+| `/timeout` | Times out a given member from the server for a chosen amount of time |
 
 ## 🤝 Contributing
 
