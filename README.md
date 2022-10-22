@@ -10,6 +10,8 @@
 - [Nodejs](https://nodejs.org/en/) v16 or later
 - [Discord.js](https://github.com/discordjs/discord.js/) v14
 
+This bot is still in development and I am currently working on many more features and connecting a database so you can pay off your mortgage to Tom Nook.
+
 ## 🎣 Features
 <div align="center">
 <h3>Fish and catch bugs just like in Animal Crossing!</h3>
