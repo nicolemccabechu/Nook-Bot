@@ -4,7 +4,7 @@ const fetch = require("node-fetch");
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("bugs")
-    .setDescription(`I smart cat that will tell you interesting facts!`),
+    .setDescription(`Catch a bug!`),
   async execute(interaction, client) {
     try {
       const bugFound = Math.floor(Math.random() * 80);

@@ -3,7 +3,7 @@ const { SlashCommandBuilder, EmbedBuilder } = require("discord.js");
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("help")
-    .setDescription(`I smart cat that will tell you interesting facts!`),
+    .setDescription(`Shows list of commands.`),
   async execute(interaction, client) {
     try {
 

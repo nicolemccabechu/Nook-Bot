@@ -4,7 +4,7 @@ const fetch = require("node-fetch");
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("advice")
-    .setDescription(`I smart cat that will tell you interesting facts!`),
+    .setDescription(`Gives words of wisdom from Tom Nook!`),
   async execute(interaction, client) {
     try {
       const data = await fetch("https://api.adviceslip.com/advice").then(

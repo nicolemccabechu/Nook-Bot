@@ -4,7 +4,7 @@ const fetch = require("node-fetch");
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("activity")
-    .setDescription(`Give me something to do.`),
+    .setDescription(`Give me something to do!`),
   async execute(interaction, client) {
     try {
       const data = await fetch("http://www.boredapi.com/api/activity/").then(

@@ -4,7 +4,7 @@ const fetch = require("node-fetch");
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("affirmation")
-    .setDescription(`I smart cat that will tell you interesting facts!`),
+    .setDescription(`Gives an affirmation to cheer you up!`),
   async execute(interaction, client) {
     try {
       const url = await fetch("https://www.affirmations.dev/").then(
