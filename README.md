@@ -24,14 +24,31 @@ This bot is still in development and I am currently working on many more feature
     <table>
         <tr>
             <th>/fish</th>
+            <th>/fish</th>
+        </tr>
+        <tr>
+            <td>
+                <img width="300px" src="/public/images/fish-command-1.png"/>
+            </td>
+            <td >
+                <img width="300px" src="/public/images/fish-command-2.png"/>
+            </td>
+        </tr>  
+    </table>
+</div>
+<br>
+<div align="center">
+    <table>
+        <tr>
+            <th>/bugs</th>
             <th>/bugs</th>
         </tr>
         <tr>
             <td>
-                <img width="300px" src="/public/images/fish-command.png"/>
+                <img width="300px" src="/public/images/bugs-command-1.png"/>
             </td>
             <td >
-                <img width="300px" src="/public/images/bugs-command.png"/>
+                <img width="300px" src="/public/images/bugs-command-2.png"/>
             </td>
         </tr>  
     </table>
