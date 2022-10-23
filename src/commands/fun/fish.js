@@ -7,8 +7,8 @@ module.exports = {
     .setDescription(`Catch a fish!`),
   async execute(interaction, client) {
     try {
-      const fishFound = Math.floor(Math.random() * 40);
-      const url = await fetch(`https://acnhapi.com/v1/sea/${fishFound}`).then(
+      const fishFound = Math.floor(Math.random() * 80);
+      const url = await fetch(`https://acnhapi.com/v1/fish/${fishFound}`).then(
         (res) => res.json()
       );
 
@@ -35,8 +35,8 @@ module.exports = {
             inline: true,
           },
           {
-            name: `Shadow`,
-            value: `${url.shadow}`,
+            name: `Location`,
+            value: `${url.availability["location"]}`,
             inline: true,
           },
           {
@@ -45,8 +45,13 @@ module.exports = {
             inline: true,
           },
           {
-            name: `Speed`,
-            value: `${url.speed}`,
+            name: `Rarity`,
+            value: `${url.availability["rarity"]}`,
+            inline: true,
+          },
+          {
+            name: `Shadow`,
+            value: `${url.shadow}`,
             inline: true,
           },
         ])
