@@ -9,6 +9,7 @@
 ## 🪓 Build with
 - [Nodejs](https://nodejs.org/en/) v16 or later
 - [Discord.js](https://github.com/discordjs/discord.js/) v14
+- [MongoDB](https://www.mongodb.com/)
 
 This bot is still in development and I am currently working on many more features and connecting a database so you can pay off your mortgage to Tom Nook.
 
