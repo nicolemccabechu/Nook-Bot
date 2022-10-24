@@ -81,6 +81,10 @@ This bot is still in development and I am currently working on many more feature
 
 ## 🍎 Commands
 
+<div align="center">
+    <h3>Fun Commands</h3>
+ </div>
+
 | Command | Description |
 | --- | --- |
 | `/villager` | Gives information about a random villager |
@@ -91,9 +95,26 @@ This bot is still in development and I am currently working on many more feature
 | `/wholesome` | Gives a random post from r/wholesomememes |
 | `/activity` | Suggests an activity to cure boredom |
 | `/catfact` | Gives random cool cat fact |
+
+<br>
+<div align="center">
+    <h3>Moderation Commands</h3>
+ </div>
+ 
+| Command | Description |
+| --- | --- |
 | `/kick` | Kicks a given member from the server |
 | `/ban` | Bans a given member from the server |
 | `/timeout` | Times out a given member from the server for a chosen amount of time |
+
+<br>
+ <div align="center">
+    <h3>Economy Commands</h3>
+ </div>
+ 
+| Command | Description |
+| --- | --- |
+| `/balance` | Returns the amount of bells of a user |
 
 ## 🤝 Contributing
 
